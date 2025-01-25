@@ -1,0 +1,23 @@
+﻿  Solution.cpp
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(100,26): error C3536: 'insert': başlatılmadan önce kullanılamaz
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(103,27): error C3536: 'insert': başlatılmadan önce kullanılamaz
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(100,26): error C2326: 'GetMostFrequentKWords::Node *GetMostFrequentKWords::<lambda_6>::operator ()(GetMostFrequentKWords::Node *,const std::string &) const': işlev 'insert' öğesine erişemiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(100,26): error C2064: terim 2 bağımsız değişken alan bir işlev olarak değerlendirilmiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(103,27): error C2326: 'GetMostFrequentKWords::Node *GetMostFrequentKWords::<lambda_6>::operator ()(GetMostFrequentKWords::Node *,const std::string &) const': işlev 'insert' öğesine erişemiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(103,27): error C2064: terim 2 bağımsız değişken alan bir işlev olarak değerlendirilmiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(95,17): error C2440: 'başlatılıyor': 'GetMostFrequentKWords::<lambda_6>' - 'int' dönüşümü yapılamıyor
+      C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(95,17):
+      Bu dönüştürmeyi gerçekleştirecek kullanıcı tanımlı dönüştürme işleci yok veya işleç çağrılamıyor
+  
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(117,13): error C3536: 'inorder_traverse': başlatılmadan önce kullanılamaz
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(119,13): error C3536: 'inorder_traverse': başlatılmadan önce kullanılamaz
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(117,13): error C2326: 'auto GetMostFrequentKWords::<lambda_7>::operator ()(GetMostFrequentKWords::Node *,std::vector<WordFreq,std::allocator<WordFreq>> &,const std::unordered_map<std::string,int,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,int>>> &) const': işlev 'inorder_traverse' öğesine erişemiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(117,13): error C2064: terim 3 bağımsız değişken alan bir işlev olarak değerlendirilmiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(119,13): error C2326: 'auto GetMostFrequentKWords::<lambda_7>::operator ()(GetMostFrequentKWords::Node *,std::vector<WordFreq,std::allocator<WordFreq>> &,const std::unordered_map<std::string,int,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::pair<const std::string,int>>> &) const': işlev 'inorder_traverse' öğesine erişemiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(119,13): error C2064: terim 3 bağımsız değişken alan bir işlev olarak değerlendirilmiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(115,27): error C2440: 'başlatılıyor': 'GetMostFrequentKWords::<lambda_7>' - 'int' dönüşümü yapılamıyor
+      C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(115,27):
+      Bu dönüştürmeyi gerçekleştirecek kullanıcı tanımlı dönüştürme işleci yok veya işleç çağrılamıyor
+  
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(147,16): error C2064: terim 2 bağımsız değişken alan bir işlev olarak değerlendirilmiyor
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_Lab06\Yeni klasör\Lab06\Lab06\Solution.cpp(150,5): error C2064: terim 3 bağımsız değişken alan bir işlev olarak değerlendirilmiyor
