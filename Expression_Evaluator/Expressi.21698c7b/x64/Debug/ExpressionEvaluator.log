@@ -1,0 +1,4 @@
+﻿  Expression.cpp
+  main.cpp
+  Kod Üretiliyor...
+C:\Users\TUNAHAN\Desktop\Academics\151220222120_Tunahan_Şanal_lab03\151220222120_Tunahan_Şanal_lab03\ExpressionEvaluator\main.cpp(16,1): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
