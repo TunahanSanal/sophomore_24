@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_lab05\Lab05\main.cpp(74,13): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_lab05\Lab05\main.cpp(135,13): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ThreadedBST.cpp
+  Kod Üretiliyor...
+  Lab05.vcxproj -> C:\Users\TUNAHAN\Desktop\151220222120_Tunahan_Sanal_lab05\Lab05\x64\Debug\Lab05.exe
